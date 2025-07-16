@@ -1,7 +1,7 @@
- Classificadores Inteligentes com a Base Iris
+Classificador com a Base Iris
 Este projeto é uma aplicação desenvolvida com Python e Tkinter para visualização, treinamento e avaliação de diferentes classificadores de aprendizado de máquina, utilizando a famosa base de dados Iris.
 
-📌 Funcionalidades
+Funcionalidades:
 Interface gráfica com Tkinter
 
 Classificadores implementados:
